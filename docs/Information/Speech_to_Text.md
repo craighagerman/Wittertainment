@@ -1,9 +1,6 @@
 # On Speech To Text
 
 
-
-
-
 ## Glossary
 
 ### Diarisation
