@@ -82,6 +82,7 @@ Need to vectorize text
 Need to store (1) audio data (probably), (2) raw text data (2) vector embeddings
 
 - use Vespa.ai DB for all of above
+- but maybe start with SQLite (or DuckDB?) as a simple, initial DB
 
 
 ## API
