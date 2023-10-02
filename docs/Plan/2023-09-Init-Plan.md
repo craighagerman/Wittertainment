@@ -35,13 +35,24 @@ Future functionality
 - Podcast rating for branding -> rate across various dimensions (content, profanity, other) - kind of like BBFC rating
 - Get other film/TV data (e.g. reviews; year, director, actor metadata, etc) -> incorporate into LLM & recommender
 
+Other ideas for playing around and having fun
+- port API to golang
+  - I HAVE written an API in Go while at @Uncharted, but it isn't a core competency. I'd like to get more proficient at Go.
+- port (some Python) code to Julia (or other language)
+  - I'd like to learn more about Julia hands-on. Not sure if this is a good use case
+  - I have a bit of experience with Haskell & Lisp and have always wanted to use a full on FP language in prod somewhere...
+  - Scala .... I love love love Scala! Probably makes no sense if this isn't a Spark project though.
+
+
 
 ## Inspiration
 
-Where did the idea come from? Two things...
+Where did the idea come from? ...
 
 1. I listen to the podcasts but end up watching things much later and sometimes can't remember how it was reviewed. Other times I see a title and wonder what Mark said about it ... but don't know in which podcast it was mentioned. I'd like to be able to find and be reminded of the review and comments easily (in text form).
 2. Vicki Boykis's Vibery (https://github.com/veekaybee/viberary) project is a great inspiration. I love her writing style. The vibery project inspires me to take on a personal passion project as well. 
+3. I'm interested in learning about Vespa.ai DB. This project gives me a hands-on way to learn. 
+4. All the cool kids are using LLMs & I want to too :) ! I've built language models & generative ML models for a couple decades. I've also used LLMs but not recently. I was looking for a project that interests me where I can explore and leverage modern LLM & GenAI technologies. 
 
 
 ------------------------------------------------------------------------------------------

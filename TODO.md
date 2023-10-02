@@ -30,3 +30,14 @@ List what other non-python tech will be used (JS, Docker, Java for Vespa? etc)
 - [ ] set up any pre-commmit hooks that are relevant for each of above
 
 
+some code:
+
+```python
+foo = "bar"
+```
+
+> this is a quoted text
+>
+
+
+

@@ -3,6 +3,14 @@
 link: [https://github.com/commitizen-tools/commitizen]
 
 
+## Quickstart on CLI commands
+
+`cz bump` - bump version
+`cz changelog` - generate changelog
+`cz ch` - (same ^ )
+
+
+
 ## Use Commit Types
 
 - `feat`: A new feature

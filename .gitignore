@@ -4,12 +4,22 @@ __pycache__/
 *$py.class
 
 
+# Ignore WIP sandbox, playground, scratch directories
+sandbox/
+playground/
+scratch
+
 # VSCode
 *.code-workspace
 
 #PyCharm / IntelliJ
 *.idea
 
+
+# Audio files
+*.mp3
+*.flac
+*.wav
 
 # C extensions
 *.so
