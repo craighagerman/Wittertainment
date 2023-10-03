@@ -1,0 +1,17 @@
+feedparser
+ipython
+jupyter
+jupyterlab
+numpy
+jiwer
+pandas
+python-dotenv
+scipy
+sentence-transformers
+cython
+openai-whisper
+pyannote.audio
+torch 
+torchvision 
+torchaudio
+
