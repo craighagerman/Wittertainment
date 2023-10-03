@@ -21,6 +21,8 @@ see:
 ## Diarization with OpenAI Whisper
 
 [Speaker Diarization Using OpenAI Whisper](https://github.com/MahmoudAshraf97/whisper-diarization)
+[pyannote-audio](https://github.com/pyannote/pyannote-audio)
+[whisperx](https://github.com/m-bain/whisperX)
 
 
 ## On Deploying OpenAI Whisper
