@@ -18,11 +18,15 @@ see:
 [How to evaluate Speech Recognition models](https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models/)
 
 
-## Diarization with OpenAI Whisper
+## Diarization Libraries
+
+Diarization with WhisperX, and PyAnnotate
 
 [Speaker Diarization Using OpenAI Whisper](https://github.com/MahmoudAshraf97/whisper-diarization)
 [pyannote-audio](https://github.com/pyannote/pyannote-audio)
 [whisperx](https://github.com/m-bain/whisperX)
+[Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
+[speech2text_whisperai_pyannotate](https://github.com/luisroque/large_laguage_models/blob/main/speech2text_whisperai_pyannotate.py#L112)
 
 
 ## On Deploying OpenAI Whisper

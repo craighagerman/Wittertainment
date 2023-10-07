@@ -18,11 +18,13 @@ Investigating options of GPU cloud compute to run a notebook.
 - likely a more expensive option
 - easy/straightforward to setup & use (I already use AWS)
 - instances, GPUS, pricint info is confusing / difficult to sort through
-- probably go for a ml.g4dn.xlarge or similar
+- probably go for a `ml.g4dn.xlarge` or similar
 - TODO: run a couple small Sagemaker jobs on a ml.g4dn.xlarge instance to estimate costs for longer tasks.
 
 
 ### Other options
+
+[Reddit thread on GPUS](https://www.reddit.com/r/MachineLearning/comments/kcj80e/d_renting_high_end_gpu_resource_non_aws_options/)
 
 #### Google Colab
 
