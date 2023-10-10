@@ -16,14 +16,20 @@ vesba initialization
 - create and add schema to app package
 - define rankings
 
-vesba load
+vesba load corpus
 - iterate over podcast text
 - vectorize title & body (convert to embeddings using SentenceTransformers)
 - add text & embedddings & metadata to vespa
 
 
-## Query
+## Run time
+
+frontend web app
+- Vue 3 app with basic/usual search functionality
+
+api endpoint
+- FastAPI endpoint(s) for receiving query from frontend, querying vespa, parsing and returning results
 
 vespa query
 - input query -> convert to embedding using SentenceTransformers -> HNSW lookup
-- rank results
+- rank results and return

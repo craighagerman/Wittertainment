@@ -29,6 +29,12 @@ Diarization with WhisperX, and PyAnnotate
 [speech2text_whisperai_pyannotate](https://github.com/luisroque/large_laguage_models/blob/main/speech2text_whisperai_pyannotate.py#L112)
 
 
+## Dialog Segmenting
+
+[Dialogue-Topic-Segmenter](https://github.com/lxing532/Dialogue-Topic-Segmenter)
+[paper - Improving Unsupervised Dialogue Topic Segmentation with Utterance-Pair Coherence Scoring](https://aclanthology.org/2021.sigdial-1.18.pdf)
+
+
 ## On Deploying OpenAI Whisper
 
 see:
