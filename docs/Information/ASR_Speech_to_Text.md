@@ -32,7 +32,9 @@ Diarization with WhisperX, and PyAnnotate
 ## Dialog Segmenting
 
 [Dialogue-Topic-Segmenter](https://github.com/lxing532/Dialogue-Topic-Segmenter)
-[paper - Improving Unsupervised Dialogue Topic Segmentation with Utterance-Pair Coherence Scoring](https://aclanthology.org/2021.sigdial-1.18.pdf)
+[DialSeg 711](https://github.com/xyease/TADAM)
+[paper: Improving Unsupervised Dialogue Topic Segmentation with Utterance-Pair Coherence Scoring](https://aclanthology.org/2021.sigdial-1.18.pdf)
+[paper: Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization](https://browse.arxiv.org/pdf/2109.04994.pdf)
 
 
 ## On Deploying OpenAI Whisper
