@@ -1,3 +1,7 @@
+# private AWS directory for credentials etc
+.aws/
+
+
 # My private stuff
 private
 tmp/
