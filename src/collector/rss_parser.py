@@ -5,6 +5,8 @@ from dateutil.parser import parse as dt_parse
 from feed.clean import strip_tags
 
 
+
+
 def parse_summary(e):
     summary = e.get("summary", e.get("content", ""))
     s = strip_tags(summary).strip()
@@ -44,6 +46,9 @@ def get_datetime(pub_date):
 def get_pub_date(dt):
     TS_FORMAT = "%b %d %Y, %H:%M"
     return dt.strftime(TS_FORMAT)
+
+
+
 
 def parse_feed_html(html):
     feed = feedparser.parse(html)
