@@ -2,9 +2,17 @@
 .aws/
 
 
+# 
+
 # My private stuff
 private
 tmp/
+
+
+# processed json lines files (from rss feeds)
+*.jsonl
+
+# ----------------------------------------
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
