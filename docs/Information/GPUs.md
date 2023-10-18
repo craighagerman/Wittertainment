@@ -52,3 +52,21 @@ Investigating options of GPU cloud compute to run a notebook.
 - A GPU Cloud service (not a matchmaking rental like vast) and not a full-service Cloud service (like AWS, GCP)
 - most compelling of this list! -> TODO: create an account and do some small experiements to estimate costs. 
 
+Update
+- everytime I try to launch an instance I get a "We are out of capacity for all instances" message. Grrrr... 
+- Seems like it *would* be a great cloud GPU service ... if I could actually use a GPU
+
+
+#### Paperspace
+- [paperspace.com](https://www.paperspace.com/)
+- Found after googling for alternatives to Lambda Labs. They have a [compelling comparison to LL](https://www.paperspace.com/cloud-providers/lambda-labs-alternative-gpu-cloud)
+- YCombinator page on GPU price comparison suggests it is a more expensive option [GPU pricing of alternative clouds ](https://news.ycombinator.com/item?id=32270697)
+
+
+
+#### Rising Cloud
+- [risingcloud.com](https://risingcloud.com/)
+- GPU pricing [page](https://risingcloud.com/pricing) only mentions A100. Nothing older/cheaper? 
+- I hate their pricing page that lists only price per MILLI-SECOND! Probably to obscure the fact that they are far from inexpensive! grrr.
+
+
