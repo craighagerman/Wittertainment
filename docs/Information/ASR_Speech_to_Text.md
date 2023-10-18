@@ -43,6 +43,12 @@ see:
 [Whisper Deployment Decisions: Part I — Evaluating Latency, Costs, and Performance Metrics](https://blog.ml6.eu/whisper-deployment-decisions-part-i-evaluating-latency-costs-and-performance-metrics-d07f6edc9ec0)
 
 
+## Diarization Links
+- [whisper-transcription-and-speaker-identification](https://lablab.ai/t/whisper-transcription-and-speaker-identification)
+
+
+
+
 ## Glossary
 
 ### Diarisation
