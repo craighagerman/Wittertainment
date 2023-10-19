@@ -55,6 +55,7 @@ Investigating options of GPU cloud compute to run a notebook.
 Update
 - everytime I try to launch an instance I get a "We are out of capacity for all instances" message. Grrrr... 
 - Seems like it *would* be a great cloud GPU service ... if I could actually use a GPU
+- ... still can't get on Lambda labs
 
 
 #### Paperspace
@@ -68,5 +69,10 @@ Update
 - [risingcloud.com](https://risingcloud.com/)
 - GPU pricing [page](https://risingcloud.com/pricing) only mentions A100. Nothing older/cheaper? 
 - I hate their pricing page that lists only price per MILLI-SECOND! Probably to obscure the fact that they are far from inexpensive! grrr.
+
+
+#### TensorDock
+- [tensordock.com](https://www.tensordock.com/)
+- sees like a great option. Will try out
 
 
