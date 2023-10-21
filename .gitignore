@@ -9,6 +9,9 @@ private
 tmp/
 
 
+# Audio files
+*.rttm
+
 # processed json lines files (from rss feeds)
 *.jsonl
 
