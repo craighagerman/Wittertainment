@@ -36,4 +36,6 @@ Typical Pipeline:
 ## [Comparing state-of-the-art speaker diarization frameworks : Pyannote vs Nemo](https://lajavaness.medium.com/comparing-state-of-the-art-speaker-diarization-frameworks-pyannote-vs-nemo-31a191c6300)
 
 
+Comparison of PyAnnote & NeMo
+
 

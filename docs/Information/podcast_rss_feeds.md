@@ -28,3 +28,9 @@ n.b. The official BB RSS feed only goes back to 2016. It seems that to access ea
 
 
 
+## Downloads
+
+- Ran script to download all podcasts
+- Retrieved 2021_12_10 ~ 2023_10_06
+- hung during running. TODO : add a timeout in case of hang, log event and continue with next
+
