@@ -1,0 +1,11 @@
+# Python Requirements
+conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+# OR ...
+pip install --update pip
+pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1
+
+
+# Install WhisperX
+pip install git+https://github.com/m-bain/whisperx.git
+
+# pip install -U openai-whisper
