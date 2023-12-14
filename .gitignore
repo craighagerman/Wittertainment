@@ -8,6 +8,8 @@
 private
 tmp/
 
+#RClone config file
+rclone.conf
 
 # Audio files
 *.rttm
