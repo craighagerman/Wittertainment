@@ -44,6 +44,7 @@ def _load_rss_file(path):
 
 def _write_jsonl(outdata, outpath):
     # write json-lines data to file
+    print(f"writing data to {outpath}")
     with open(outpath, "w") as fo:
         fo.write("\n".join([json.dumps(x) for x in outdata] ))
 
@@ -55,10 +56,10 @@ def execute(inpath, outpath):
 
 
 def main():
-    bbc_feed_dir = os.path.join(DevData().data_dir, "rss_feeds", "bbc_5_live")
-    bbc_feed_path = os.path.join(bbc_feed_dir, "podcasts.files.bbci.co.uk_b00lvdrj.rss")
-    bbc_out_path = os.path.join(bbc_feed_dir, "bbc.jsonl")
-    execute(bbc_feed_path, bbc_out_path)
+    # bbc_feed_dir = os.path.join(DevData().data_dir, "rss_feeds", "bbc_5_live")
+    # bbc_feed_path = os.path.join(bbc_feed_dir, "podcasts.files.bbci.co.uk_b00lvdrj.rss")
+    # bbc_out_path = os.path.join(bbc_feed_dir, "bbc.jsonl")
+    # execute(bbc_feed_path, bbc_out_path)
     
     the_take_feed_dir = os.path.join(DevData().data_dir, "rss_feeds", "the_take")
     the_take_feed_path = os.path.join(the_take_feed_dir, "kermodeandmayo.xml")
